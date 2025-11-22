@@ -1,11 +1,11 @@
-import headphones from "../assets/headphones.png";
+import Headphones from "../assets/headphones.png";
 import watch from "../assets/watch.png";
 import speaker from "../assets/speaker.png";
 import mouse from "../assets/mouse.png";
 import keyboard from "../assets/keyboard.png";
 import monitor from "../assets/monitor.png";
-import hub from "../assets/USB-C.jpg";
-import earbuds from "../assets/Earbuds.jpg";
+import hub from "../assets/USB-C.png";
+import earbuds from "../assets/Earbuds.png";
 import mobile from "../assets/mobile.png";
 
 const products = [
@@ -14,7 +14,7 @@ const products = [
     title: 'Wireless Headphones',
     price: 59.99,
     description: 'Comfortable over-ear wireless headphones with clear sound.',
-    image: headphones,
+    image: Headphones,
     category: 'Audio',
   },
   {
