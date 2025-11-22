@@ -1,11 +1,11 @@
-import Headphones from "../assets/Headphones.png";
+import Headphones from "../assets/headphones.png";
 import watch from "../assets/watch.png";
 import speaker from "../assets/speaker.png";
 import mouse from "../assets/mouse.png";
 import keyboard from "../assets/keyboard.png";
 import monitor from "../assets/monitor.png";
-import hub from "../assets/USB-C.png";
-import earbuds from "../assets/Earbuds.png";
+import hub from "../assets/usb-C.png";
+import earbuds from "../assets/earbuds.png";
 import mobile from "../assets/mobile.png";
 
 const products = [
