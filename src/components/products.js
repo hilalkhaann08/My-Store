@@ -16,14 +16,14 @@ const products = [
   //   image: Headphones,
   //   category: 'Audio',
   // },
-  {
-    id: 'p2',
-    title: 'Smart Watch',
-    price: 99.99,
-    description: 'Track fitness, notifications, and more with this smart watch.',
-    image: watch,
-    category: 'Wearables',
-  },
+  // {
+  //   id: 'p2',
+  //   title: 'Smart Watch',
+  //   price: 99.99,
+  //   description: 'Track fitness, notifications, and more with this smart watch.',
+  //   image: watch,
+  //   category: 'Wearables',
+  // },
   {
     id: 'p3',
     title: 'Bluetooth Speaker',
