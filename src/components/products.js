@@ -1,4 +1,3 @@
-import Headphones from "../assets/keyboard.png";
 import watch from "../assets/watch.png";
 import speaker from "../assets/speaker.png";
 import mouse from "../assets/mouse.png";
@@ -9,14 +8,14 @@ import earbuds from "../assets/earbuds.png";
 import mobile from "../assets/mobile.png";
 
 const products = [
-  {
-    id: 'p1',
-    title: 'Wireless Headphones',
-    price: 59.99,
-    description: 'Comfortable over-ear wireless headphones with clear sound.',
-    image: Headphones,
-    category: 'Audio',
-  },
+  // {
+  //   id: 'p1',
+  //   title: 'Wireless Headphones',
+  //   price: 59.99,
+  //   description: 'Comfortable over-ear wireless headphones with clear sound.',
+  //   image: Headphones,
+  //   category: 'Audio',
+  // },
   {
     id: 'p2',
     title: 'Smart Watch',
