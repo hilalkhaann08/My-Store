@@ -1,4 +1,4 @@
-import Headphones from "../assets/headphones.png";
+import Headphones from "../assets/Headphones.png";
 import watch from "../assets/watch.png";
 import speaker from "../assets/speaker.png";
 import mouse from "../assets/mouse.png";
