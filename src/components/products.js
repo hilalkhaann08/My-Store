@@ -1,4 +1,3 @@
-import watch from "../assets/watch.png";
 import speaker from "../assets/speaker.png";
 import mouse from "../assets/mouse.png";
 import keyboard from "../assets/keyboard.png";
